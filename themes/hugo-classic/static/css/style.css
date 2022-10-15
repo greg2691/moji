@@ -222,3 +222,7 @@ blockquote {
     display: block;
   }
 }
+
+.commenti {
+  font-size: 0.8rem;
+}

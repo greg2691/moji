@@ -10,6 +10,14 @@
   {{ end }}
   {{ end }}
 </p>
+<span class="commenti">
+  <script>
+  var idcomments_acct = '15e08ec63b2cd22957159492f25f3dc2';
+  var idcomments_post_id;
+  var idcomments_post_url;
+  </script>
+  <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+</span>
 </div>
 
 {{ if .Params.toc }}
@@ -18,14 +26,13 @@
 <div class="content-wrapper">
   <main>
     {{ .Content }}
-    <script src="https://utteranc.es/client.js"
-        repo="greg2691/moji"
-        issue-term="pathname"
-        label="Commenti"
-        theme="boxy-light"
-        crossorigin="anonymous"
-        async>
-      </script>
+    <script>
+var idcomments_acct = '15e08ec63b2cd22957159492f25f3dc2';
+var idcomments_post_id;
+var idcomments_post_url;
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
     <a href="/"> >> Home</a>
   </main>
 </div>

@@ -97,4 +97,6 @@ La magra consolazione è che con qualche centinaio d'euro è possibile prendere 
 Segnatevi bene quest'ultima frase perché è fondamentale nel racconto di questa impresa. 
 
 
+Segno questo per fare un po' di cambiamenti!
+
 

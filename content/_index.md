@@ -4,19 +4,15 @@ description: "The personal writings and expressions of Grayfox, otherwise known 
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
+  src="/images/LOGO.png" height="204px" width="204"
   alt="A foxy face">
 
-## Welcome, friend
+## Untouchball F.C. 💜🖤
 
-### :purple_heart: :earth_africa: :purple_heart:
+Le peripezie degli Untouchball F.C., squadra di fantasy football su blockchain.
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
-
-Their greatest joys are darkness and its quietudes.
-
-<img src="/images/partywizard.gif">
+Qui sotto ci sono gli sfoghi, i pensieri e le cronache di uno dei due manager / fondatori.
 
 ---
 
-## Musings
+## Ultimi Posts

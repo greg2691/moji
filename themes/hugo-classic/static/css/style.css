@@ -7,16 +7,11 @@
   }
 
   a {
-    color: #613DC1;
+    color: #7F00FF;
   }
 
   header {
-    background: #613DC1;
-    font-family: 'Jost', sans-serif;
-  }
-
-  header .site-title {
-    font-weight: 700;
+    background: #7F00FF;
   }
 
   .article-meta, .menu a {
@@ -44,11 +39,11 @@
     }
 
     a {
-      color: #613DC1;
+      color: #7F00FF;
     }
 
     header {
-      background: #613DC1;
+      background: #7F00FF;
     }
 
     .article-meta, .menu a {
@@ -68,6 +63,16 @@
 }
 
 
+header {
+  background: #7F00FF;
+  font-family: 'Jost', sans-serif;
+}
+
+header .site-title {
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
 body {
   max-width: 800px;
   margin: auto;
@@ -77,6 +82,15 @@ body {
 
 h1 {
   line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Jost', sans-serif;
+}
+
+table {
+  width: 100%;
+  border: none;
 }
 
 /* Table of Contents, if wanted

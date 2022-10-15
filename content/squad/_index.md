@@ -18,6 +18,18 @@ Galleria squadra Rare Untouchball F.C. - aggiornata al: **15/10/2022**
       id="schulz"
       src="/images/squad-rare/arne-schulz.png"
       alt="Arne Schulz"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
   </tr>
 </thead>
 </table>
@@ -35,6 +47,18 @@ Galleria squadra Rare Untouchball F.C. - aggiornata al: **15/10/2022**
       id="fancois"
       src="/images/squad-rare/fancois.png"
       alt="Francois"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
   </tr>
 </thead>
 </table>
@@ -81,6 +105,18 @@ Galleria squadra Rare Untouchball F.C. - aggiornata al: **15/10/2022**
       id="choupo-moting"
       src="/images/squad-rare/choupo-moting.png"
       alt="Choupo-Moting"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
+    <td><img
+      id="white"
+      src="/images/squad-rare/white.png"
+      alt="White"></td>
   </tr>
 </thead>
 </table>

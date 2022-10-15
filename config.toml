@@ -39,8 +39,8 @@ name = "Squadra"
 url = "/squad/"
 weight = 3
 [[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
+name = "Sorare Stats"
+url = "https://sorarebase.football/cards/158238/eur/"
 
 [params]
 custom_css = ["css/theme-override.css"]

@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "Moji-Moji"
-theme = "xmin"
+theme = "hugo-classic"
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true

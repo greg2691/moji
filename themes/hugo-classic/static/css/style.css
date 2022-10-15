@@ -15,8 +15,12 @@
     font-family: 'Jost', sans-serif;
   }
 
+  header .site-title {
+    font-weight: 700;
+  }
+
   .article-meta, .menu a {
-    background: #E8DBC5;
+    background: lightgrey;
     color: #000;
   }
 

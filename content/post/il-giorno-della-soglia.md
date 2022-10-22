@@ -114,11 +114,11 @@ Inizia il campionato e ogni giornata i punti oscillano fino a quando, il 07 Otto
 
 Ve li metto qui sotto:
 
-![soglie.png](../../static/images/posts/soglie.png)
+![soglie.png](/images/posts/soglie.png "soglie.png")
 
 Realizziamo ben: 243.72 pti piazzandoci al 2195 post su 10231
 
-![![Prima soglia.png](../../static/images/posts/Prima soglia.png)]()
+![![Prima soglia.png](/images/posts/Prima soglia.png)]()
 
 La beffa arriva nonostante la soglia presa, eravamo a tanto così dalla seconda soglia, riuscendo ad innagurare le vittorie con il premio massimo. Peccato, sarà per la prossima volta. 
 

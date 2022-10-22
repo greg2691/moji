@@ -96,7 +96,38 @@ La magra consolazione è che con qualche centinaio d'euro è possibile prendere 
 
 Segnatevi bene quest'ultima frase perché è fondamentale nel racconto di questa impresa. 
 
+Decidiamo di prendere il portiere più economico possibile e riusciamo ad accaparrarcene una a 90€, under 23. 
 
-Segno questo per fare un po' di cambiamenti!
+Tutto bello, abbiamo il portiere ora la strada è tutta in discesa.
+
+NO! Niente di più sbagliato.
+
+A squadra già pronta e con l'inizio stagione alle porte la carta del portiere non è giocabile perché la sua squadra non è presente su Sorare.
+
+#### PANICO TOTALE. ORA COSA FACCIAMO?
+
+Rimettiamoci sul mercato, cerchiamo subito un portiere da poter schierare, va bene anche uno di 60 anni che fa solo panchina, basta arrivare a cinque giocabili e basta.
+
+E così abbiamo fatto, abbiamo preso Antonio Mirante, non regalato ma l'abbiamo preso e questo ci ha concesso di poter giocare.
+
+Inizia il campionato e ogni giornata i punti oscillano fino a quando, il 07 Ottobre 2022 arriva inaspettatamente la nostra prima soglia. Vi ricordate le due soglie e i relativi punteggi?
+
+Ve li metto qui sotto:
+
+![soglie.png](../../static/images/posts/soglie.png)
+
+Realizziamo ben: 243.72 pti piazzandoci al 2195 post su 10231
+
+![![Prima soglia.png](../../static/images/posts/Prima soglia.png)]()
+
+La beffa arriva nonostante la soglia presa, eravamo a tanto così dalla seconda soglia, riuscendo ad innagurare le vittorie con il premio massimo. Peccato, sarà per la prossima volta. 
+
+#### CONCLUSIONE
+
+Ho concluso velocemente il racconto perché stava diventato più un "Come abbiamo costruito la squadra" piuttosto che il racconto della nostra prima soglia.
+
+Nel momento della stesura dell'articolo ci siamo avvicinati a svariate altre soglie e abbiamo migliorato la squadra Casual riuscendo spesso a vincere carte Star e ci siamo introdotti nel mercato Limited competendo nella categoria Kick Off Limited dove i primi dove le prime 250 persone vincono carte limited dalla Tier 3 in su.
+
+Ci vediamo presto.
 
 

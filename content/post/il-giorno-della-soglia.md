@@ -116,9 +116,9 @@ Ve li metto qui sotto:
 
 ![soglie.png](/images/posts/soglie.png "soglie.png")
 
-Realizziamo ben: 243.72 pti piazzandoci al 2195 post su 10231
+Realizziamo ben: 243.72 pti piazzandoci al 2195 posto su 10231
 
-![![Prima soglia.png](/images/posts/Prima soglia.png)]()
+![Prima soglia.png](/images/posts/Prima soglia.png)
 
 La beffa arriva nonostante la soglia presa, eravamo a tanto così dalla seconda soglia, riuscendo ad innagurare le vittorie con il premio massimo. Peccato, sarà per la prossima volta. 
 
